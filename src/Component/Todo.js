@@ -139,7 +139,7 @@ const Todo = () => {
                           <li className="list-group-item d-flex justify-content-between ">
                             <div>
                               <span className="text-danger">
-                                {elem.username}{" "}
+                                {elem.username}
                               </span>
                             </div>
                             <div>
