@@ -131,7 +131,7 @@ const Todo = () => {
               </div>
               {/* List Section */}
               <ul className="list-group mt-5 mb-5">
-                <Scrollbars style={{ height: "20rem", width: "100%" }}>
+                <Scrollbars style={{ height: "21rem", width: "100%" }}>
                   {list.map((elem, index) => {
                     return (
                       <>
